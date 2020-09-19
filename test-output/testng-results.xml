@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-17T12:32:01 IST" name="Default suite" finished-at="2020-09-17T12:32:21 IST" duration-ms="19241">
+    <groups>
+    </groups>
+    <test started-at="2020-09-17T12:32:01 IST" name="Default test" finished-at="2020-09-17T12:32:21 IST" duration-ms="19241">
+      <class name="com.TESTCASES.HomePageTESTCASE">
+        <test-method is-config="true" signature="beforeSetUP()[pri:0, instance:com.TESTCASES.HomePageTESTCASE@2e222612]" started-at="2020-09-17T12:32:01 IST" name="beforeSetUP" finished-at="2020-09-17T12:32:14 IST" duration-ms="12864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetUP -->
+        <test-method signature="taskLink()[pri:0, instance:com.TESTCASES.HomePageTESTCASE@2e222612]" started-at="2020-09-17T12:32:14 IST" name="taskLink" finished-at="2020-09-17T12:32:21 IST" duration-ms="6332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- taskLink -->
+        <test-method is-config="true" signature="endSetUp()[pri:0, instance:com.TESTCASES.HomePageTESTCASE@2e222612]" started-at="2020-09-17T12:32:21 IST" name="endSetUp" finished-at="2020-09-17T12:32:21 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSetUp -->
+      </class> <!-- com.TESTCASES.HomePageTESTCASE -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
